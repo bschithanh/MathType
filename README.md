@@ -13,5 +13,6 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 https://github.com/user-attachments/assets/50bccfa7-f75e-4583-8778-d8ce791ceeb4
 
 ## [MathType 7.7.0.237](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/Efq6TVP_P-RDsLEIN1BoLBIBCvv6lPJt1xeyY5nU0l7XYw?e=tHJEHx)
+## [MathType-win-en-7.6.0.156](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EXwn6oeklMFKukyRW6uPDVkBaoQtWi1pBRQdrNEgwzeM-A?e=lqp4mJ)
 
 [Link source](https://docs.google.com/spreadsheets/d/e/2PACX-1vTId_2VGY1MeQdeH6OU6Oja27zMe91mHmYUl6aVWsyKlcFBuLwvr2M-9uaBRWDUqxPAi5xE-pqief4d/pubhtml#)
