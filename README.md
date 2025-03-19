@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/50bccfa7-f75e-4583-8778-d8ce791ceeb4
 - ![image](https://github.com/user-attachments/assets/57bffaf3-024b-417b-be36-d35e510e7636)
 - ![image](https://github.com/user-attachments/assets/9c7a1d25-d5fa-4811-a6a2-4f5806ba18fd)
 - ![image](https://github.com/user-attachments/assets/a40dcac0-d221-46d9-b413-41de415c1a56)
-- Nhập Keyn như sau:
+- Nhập Key như sau:
   - FirstName: NguyenChi
   - Lastname: Thanh
   - Organization: Hospital
