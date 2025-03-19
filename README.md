@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/50bccfa7-f75e-4583-8778-d8ce791ceeb4
 
 ## MathType 6.9 Cổ điển.
 - ![image](https://github.com/user-attachments/assets/c45c469f-5ad2-472e-94ff-a6c2c4721056)
-- Link download: http://thtanhoib.danphuong.edu.vn/upload/100371/20200116/math_type_69_114201814_0ea555b007.rar
+- Link download [tại đây](http://thtanhoib.danphuong.edu.vn/upload/100371/20200116/math_type_69_114201814_0ea555b007.rar) hoặc [tại đây](https://raw.githubusercontent.com/bschithanh/nguon/refs/heads/main/InstallMathType6.9.exe)
 - Download xong thì cài đặt như bình thường.
 - ![image](https://github.com/user-attachments/assets/57bffaf3-024b-417b-be36-d35e510e7636)
 - ![image](https://github.com/user-attachments/assets/9c7a1d25-d5fa-4811-a6a2-4f5806ba18fd)
